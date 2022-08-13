@@ -1,0 +1,1 @@
+## En esta carpeta iran los archivos como los hooks y las funciones que puedan ser útiles

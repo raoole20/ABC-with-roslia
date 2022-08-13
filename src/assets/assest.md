@@ -1,0 +1,1 @@
+## Esta carpeta irán los archivos como las imagenes y los estilos
